@@ -158,4 +158,19 @@ For professional inquiries, case consultations, or media requests, please visit 
 
 ---
 
+## Connect with Mark Roher
+
+| Platform | Link |
+|---|---|
+| **LinkedIn** | [linkedin.com/in/mark-roher](https://www.linkedin.com/in/mark-roher-2b7a0ab/) |
+| **Instagram** | [instagram.com/markroher](https://www.instagram.com/markroher/) |
+| **YouTube** | [youtube.com/@MarkRoher-Law](https://www.youtube.com/@MarkRoher-Law) |
+| **X (Twitter)** | [x.com/MarkRoher1999](https://x.com/MarkRoher1999) |
+| **Facebook** | [Law Office of Mark S. Roher, P.A.](https://www.facebook.com/people/Law-Office-of-Mark-S-Roher-PA/100063602569606/) |
+| **SoundCloud** | [soundcloud.com/mark-roher](https://soundcloud.com/mark-roher) |
+| **Crunchbase** | [Mark Roher Law](https://www.crunchbase.com/organization/mark-roher-law) |
+| **Yelp** | [Law Office of Mark S. Roher](https://www.yelp.com/biz/law-office-of-mark-s-roher-pembroke-pines-3) |
+
+---
+
 *This profile is maintained by the Law Office of Mark S. Roher, P.A. for professional and informational purposes. All information is based on publicly available records and professional credentials. For legal advice, please schedule a consultation.*
