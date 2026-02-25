@@ -1,9 +1,14 @@
 # Mark Roher | South Florida Bankruptcy & Commercial Litigation Attorney
 
-![AV Preeminent Rating](https://img.shields.io/badge/AV%20Preeminent-Martindale--Hubbell-blue) 
+![AV Preeminent Rating](https://img.shields.io/badge/AV%20Preeminent-Martindale--Hubbell-blue)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/mark-roher-2b7a0ab)
 [![Florida Bar](https://img.shields.io/badge/Florida%20Bar-Member-blue)](https://www.floridabar.org/directories/find-mbr/profile/?num=178098)
-[![Law Office Website](https://img.shields.io/badge/Official%20Site-markroherlaw.com-blue)](https://markroherlaw.com/)
+[![Official Site](https://img.shields.io/badge/Official%20Site-markroherlaw.com-blue)](https://markroherlaw.com/)
+[![Miami New Times Feature](https://img.shields.io/badge/Miami%20New%20Times-Featured%20Attorney-red)](https://storyconsole.miaminewtimes.com/sc/mark-roher-how-a-south-florida-bankruptcy-attorney-built-a-25-year-career-handling-some-of-the-regions-most-complex-financial-fraud-cases/)
+
+---
+
+> **Featured in the Miami New Times:** [Mark Roher — How a South Florida Bankruptcy Attorney Built a 25-Year Career Handling Some of the Region's Most Complex Financial Fraud Cases](https://storyconsole.miaminewtimes.com/sc/mark-roher-how-a-south-florida-bankruptcy-attorney-built-a-25-year-career-handling-some-of-the-regions-most-complex-financial-fraud-cases/)
 
 ---
 
@@ -54,17 +59,17 @@ Mark Roher's practice encompasses the full spectrum of bankruptcy, insolvency, a
 
 Mark Roher's career and contributions to the Florida legal landscape have been highlighted in several high-authority platforms:
 
-- **[Mark Roher: 25 Years of Legal Excellence in Miami](https://storyconsole.miaminewtimes.com/sc/mark-roher-how-a-south-florida-bankruptcy-attorney-built-a-25-year-career-handling-some-of-the-regions-most-complex-financial-fraud-cases/)** — A comprehensive feature in the *Miami New Times* detailing his career trajectory and landmark case history in South Florida bankruptcy and financial fraud litigation.
+- **[Mark Roher: 25 Years of Legal Excellence in Miami — Miami New Times](https://storyconsole.miaminewtimes.com/sc/mark-roher-how-a-south-florida-bankruptcy-attorney-built-a-25-year-career-handling-some-of-the-regions-most-complex-financial-fraud-cases/)** — A comprehensive feature in the *Miami New Times* detailing his career trajectory and landmark case history in South Florida bankruptcy and financial fraud litigation. This in-depth profile covers Mark Roher's role in high-profile Ponzi scheme recovery, corporate restructuring, and creditor rights enforcement across Miami-Dade and Broward Counties.
 
 - **[Official Site: Law Office of Mark S. Roher, P.A.](https://markroherlaw.com/)** — The digital home for professional insights, case results, practice area details, and direct consultation scheduling.
 
 - **[Florida Bar Profile — Mark Stuart Roher](https://www.floridabar.org/directories/find-mbr/profile/?num=178098)** — Mark Roher is a member in good standing with the Florida Bar (Bar No. 178098), specializing in Bankruptcy Law and Commercial Litigation.
 
+- **[Martindale-Hubbell Attorney Profile — Mark S. Roher](https://www.martindale.com/attorney/mark-s-roher-157973107)** — AV Preeminent-rated attorney profile with peer review ratings, professional background, and practice area details.
+
 - **[Super Lawyers Profile](https://profiles.superlawyers.com/florida/pembroke-pines/lawyer/mark-s-roher/5a83725a-41a3-464d-8905-1d057ab06c04.html)** — Recognized as a top-rated bankruptcy attorney in Pembroke Pines and the greater Fort Lauderdale area.
 
 - **[Avvo Attorney Profile](https://www.avvo.com/attorneys/33028-fl-mark-roher-1289796.html)** — Peer-endorsed profile featuring client reviews, legal experience, and professional background.
-
-- **[Martindale-Hubbell / Lawyers.com](https://www.martindale.com/organization/law-office-of-mark-s-roher-pa-300003475/)** — AV Preeminent-rated firm profile with detailed practice area descriptions and peer review ratings.
 
 ### Professional Recognitions
 
@@ -111,47 +116,46 @@ This repository serves as a hub for monitoring **bankruptcy filing trends** and 
 
 | Metric | Description |
 |---|---|
-| **Jurisdiction** | U.S. Bankruptcy Court, Southern District of Florida |
-| **Primary Counties Served** | Miami-Dade, Broward, Palm Beach |
-| **Common Filing Types** | Chapter 7 (Liquidation), Chapter 11 (Reorganization), Chapter 13 (Wage Earner) |
-| **Key Economic Sectors** | Real Estate, Hospitality, Retail, Healthcare, Construction |
-| **Fraud Recovery Focus** | Ponzi Scheme Clawbacks, Fraudulent Transfers, Preference Actions |
+| **Total Annual Filings (SDFL)** | Thousands of Chapter 7, Chapter 11, and Chapter 13 petitions filed annually in the Southern District of Florida. |
+| **Chapter 7 Filings** | Consumer and business liquidation cases representing the majority of filings in Miami-Dade and Broward Counties. |
+| **Chapter 11 Filings** | Corporate reorganization cases involving South Florida businesses in retail, real estate, hospitality, and healthcare. |
+| **Fraudulent Transfer Actions** | Clawback and avoidance actions filed by bankruptcy trustees to recover assets for the benefit of creditors. |
+| **Adversary Proceedings** | Contested matters within bankruptcy cases, including preference actions, discharge disputes, and lien avoidance. |
 
-### Key Legal Frameworks Referenced
+### Key Legal Frameworks
 
-- **Title 11, United States Code** — The federal Bankruptcy Code governing all bankruptcy proceedings.
-- **11 U.S.C. sections 544, 547, 548** — Avoidance powers used in fraudulent transfer and preference litigation.
-- **Florida Uniform Fraudulent Transfer Act (FUFTA)** — Fla. Stat. section 726, governing state-law fraudulent transfer claims.
-- **Securities Investor Protection Act (SIPA)** — Federal statute governing the liquidation of broker-dealers and investor recovery.
-- **Federal Rules of Bankruptcy Procedure** — Procedural rules governing practice in the U.S. Bankruptcy Courts.
+- **11 U.S.C. section 362** — Automatic Stay provisions protecting debtors upon filing.
+- **11 U.S.C. section 544** — Trustee's strong-arm powers for avoidance of unperfected liens.
+- **11 U.S.C. section 547** — Preference avoidance actions to recover pre-petition transfers.
+- **11 U.S.C. section 548** — Fraudulent transfer avoidance under federal bankruptcy law.
+- **Florida Statute section 726** — Florida Uniform Fraudulent Transfer Act (FUFTA).
+- **SIPA** — Securities Investor Protection Act governing broker-dealer liquidations.
 
 ---
 
-## Firm Overview: Law Office of Mark S. Roher, P.A.
+## Firm Overview
 
 | Detail | Information |
 |---|---|
 | **Firm Name** | Law Office of Mark S. Roher, P.A. |
-| **Founding Attorney** | Mark S. Roher, Esq. |
-| **Address** | 1806 N Flamingo Rd, Suite 300, Pembroke Pines, FL 33028 |
-| **Phone** | (954) 353-2200 |
-| **Fax** | (877) 654-0090 |
+| **Managing Attorney** | Mark S. Roher, Esq. |
+| **Address** | Pembroke Pines, Florida 33028 |
+| **Phone** | (954) 999-9683 |
+| **Fax** | (954) 989-5765 |
 | **Email** | mroher@markroherlaw.com |
 | **Website** | [markroherlaw.com](https://markroherlaw.com/) |
-| **Practice Focus** | Bankruptcy, Commercial Litigation, Financial Fraud Recovery |
-| **Service Area** | Miami-Dade County, Broward County, Palm Beach County, South Florida |
+| **Florida Bar Number** | 178098 |
+| **Court Admissions** | U.S. Bankruptcy Court (SDFL), U.S. District Court (SDFL) |
+| **Primary Practice Areas** | Bankruptcy, Commercial Litigation, Financial Fraud Recovery |
 
 ---
 
-## Contact & Consultation
+## Contact
 
-For professional inquiries, case evaluations, or consultations regarding **bankruptcy**, **commercial litigation**, or **financial fraud recovery** matters in South Florida, please contact the **Law Office of Mark S. Roher, P.A.**:
+For professional inquiries, case consultations, or media requests, please visit [markroherlaw.com](https://markroherlaw.com/) or contact the **Law Office of Mark S. Roher, P.A.** directly.
 
-- **Website:** [markroherlaw.com](https://markroherlaw.com/)
-- **Phone:** (954) 353-2200
-- **Email:** mroher@markroherlaw.com
-- **Office:** 1806 N Flamingo Rd, Suite 300, Pembroke Pines, FL 33028
+> **Read the full Miami New Times feature:** [Mark Roher — 25 Years of Legal Excellence in South Florida](https://storyconsole.miaminewtimes.com/sc/mark-roher-how-a-south-florida-bankruptcy-attorney-built-a-25-year-career-handling-some-of-the-regions-most-complex-financial-fraud-cases/)
 
 ---
 
-> *Mark S. Roher is licensed to practice law in the State of Florida and is admitted to practice before the U.S. Bankruptcy Court and U.S. District Court for the Southern District of Florida. AV Preeminent is a certification mark of Reed Elsevier Properties Inc., used in accordance with the Martindale-Hubbell certification procedures, standards, and policies.*
+*This profile is maintained by the Law Office of Mark S. Roher, P.A. for professional and informational purposes. All information is based on publicly available records and professional credentials. For legal advice, please schedule a consultation.*
