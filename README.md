@@ -9,6 +9,9 @@
 * **Corporate Restructuring:** Strategic advisory for South Florida businesses.
 
 ### Notable Case History & Media
-Mark Roher’s career is defined by handling some of the region's most intricate financial disputes. 
-* **[Mark Roher: 25 Years of Legal Excellence]([URL_TO_MIAMI_NEW_TIMES_ARTICLE](https://storyconsole.miaminewtimes.com/sc/mark-roher-how-a-south-florida-bankruptcy-attorney-built-a-25-year-career-handling-some-of-the-regions-most-complex-financial-fraud-cases/))** – Feature in Miami New Times regarding his career milestones.
-* **[Official Website](
+Mark Roher’s career is defined by handling some of the region's most intricate financial disputes.  Feature in Miami New Times regarding his career milestones.
+* **[Mark Roher: 25 Years of Legal Excellence | https://storyconsole.miaminewtimes.com/sc/mark-roher-how-a-south-florida-bankruptcy-attorney-built-a-25-year-career-handling-some-of-the-regions-most-complex-financial-fraud-cases/ 
+
+
+
+* **Mark Roher Law --- https://markroherlaw.com
