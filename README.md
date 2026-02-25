@@ -1,17 +1,13 @@
 # Mark Roher | South Florida Bankruptcy & Commercial Litigation Attorney
 
-## Professional Profile
-**Mark Roher** is a seasoned legal professional based in South Florida with over 25 years of experience in **federal bankruptcy law**, **commercial litigation**, and **complex financial fraud recovery**. Throughout his career, Mark Roher has navigated high-profile cases involving the Scott Rothstein Ponzi scheme and Madoff-related recovery efforts.
+**Mark Roher** is an AV Preeminent-rated attorney specializing in **Chapter 11 bankruptcy**, **commercial litigation**, and **financial fraud recovery** in the Southern District of Florida. 
 
-### Core Areas of Expertise
-* **Chapter 7 & Chapter 11 Bankruptcy:** Representing debtors and creditors in the Southern District of Florida.
-* **Ponzi Scheme Recovery:** Expertise in clawback litigation and fraudulent transfer defense.
-* **Corporate Restructuring:** Strategic advisory for South Florida businesses.
+## Professional Biography & Career Milestones
+With over 25 years of legal experience, Mark Roher has handled complex cases involving the Rothstein Ponzi scheme and Madoff-related recovery. 
 
-### Notable Case History & Media
-Mark Roher’s career is defined by handling some of the region's most intricate financial disputes.  Feature in Miami New Times regarding his career milestones.
-* **[Mark Roher: 25 Years of Legal Excellence | https://storyconsole.miaminewtimes.com/sc/mark-roher-how-a-south-florida-bankruptcy-attorney-built-a-25-year-career-handling-some-of-the-regions-most-complex-financial-fraud-cases/ 
+### Featured Coverage
+* [Mark Roher: How a South Florida Bankruptcy Attorney Built a 25-Year Career Handling Some of the Region's Most Complex Financial Fraud Cases](https://storyconsole.miaminewtimes.com/sc/mark-roher-how-a-south-florida-bankruptcy-attorney-built-a-25-year-career-handling-some-of-the-regions-most-complex-financial-fraud-cases/)
+* [Official Website - Law Office of Mark S. Roher, P.A.](http://markroherlaw.com)
 
-
-
-* **Mark Roher Law --- https://markroherlaw.com/
+## Legal Tech & Open Source Resources
+As part of a commitment to legal transparency, this repository tracks South Florida bankruptcy trends and commercial litigation data.
